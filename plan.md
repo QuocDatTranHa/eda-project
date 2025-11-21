@@ -174,12 +174,3 @@
 - Falls Phase 3 >180 Min → **Skippe low-priority Plots**
 
 ---
-
-## 🚀 BEREIT ZUM START?
-
-**Wechsle zu ASK-MODUS und sage:**
-- `"Starte Phase 1"` → Code für Metriken-Definition
-- `"Ich habe Frage zu X"` → Sofortige Hilfe
-- `"Bin bei Phase Y"` → Guidance zum nächsten Schritt
-
-**Viel Erfolg! 🎯**
